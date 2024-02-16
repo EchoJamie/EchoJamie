@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is **EchoJamie**, I'm new to Here🏃. So everything is interesting for me.
+
+- 🌱 I’m currently learning Golang
+
+- 📖 I'm currently reading ***Clean Code***
+
+
+## ⚡ Technologies
+![Spring](https://img.shields.io/badge/-Spring-black?style=flat-square&logo=spring)
+![Jetbrains](https://img.shields.io/badge/-Jetbrains-black?style=flat-square&logo=jetbrains)
+
+## 🧑🏻‍💻 Coding makes me happy!
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=EchoJamie&show_icons=true)
